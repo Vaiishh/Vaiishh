@@ -1,92 +1,93 @@
 <!-- ════════════════════════════════════════════════════════════════
-     ANIMATED HEADER BANNER
-     ════════════════════════════════════════════════════════════════ -->
-<a href="https://github.com/Vaiishh">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=210&section=header&text=Vaishnavi%20Srinivas&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=AI%2FML%20Engineer%20%E2%80%A2%20Multi-Agent%20LLM%20Systems%20%E2%80%A2%20ACL%202026&descAlignY=56&descSize=18&animation=fadeIn" width="100%" />
-</a>
-
-<!-- ════════════════════════════════════════════════════════════════
-     TYPING ANIMATION + CONTACT
+     HERO — terminal card (commit profile-card.svg to repo root)
      ════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A371F7&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer+%40+USC+(MS+CS%2C+AI);I+build+multi-agent+LLM+systems;Production+AI+%40+Oracle+%E2%86%92+35K%2B+users;First-author+%40+ACL+2026+(under+review);From+CUDA+kernels+to+deployed+products)](https://github.com/Vaiishh)
+<img src="profile-card.svg" alt="Vaishnavi Srinivas — AI/ML Engineer" width="92%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-srinivas-65bb01240/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vaiishh.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@usc.edu)
-![Profile Views](https://komarev.com/ghpvc/?username=Vaiishh&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-srinivas-65bb01240/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2BBC8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vaiishh.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-FF7B72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@usc.edu)
 
 </div>
 
----
+<br>
 
 <!-- ════════════════════════════════════════════════════════════════
-     THE PITCH
+     ~/about
      ════════════════════════════════════════════════════════════════ -->
-## 🎯 The short version
+## `~/about`
 
 I sit at an intersection most candidates don't: I **ship production AI**, I **publish the research** behind it, and I'm comfortable all the way down to **CUDA kernels**. Most people do one of those three.
 
-- 🏭 &nbsp;**Production, at scale** — built multi-agent pipelines, RAG systems, and agentic frameworks at **Oracle**, used across **35,000+ users**.
+- 🏭 &nbsp;**Production, at scale** — multi-agent pipelines, RAG systems, and agentic frameworks at **Oracle**, used across **35,000+ users**.
 - 📄 &nbsp;**Research that holds up** — **first-author paper under review at ACL 2026** on reward-constrained multi-agent reasoning, plus **2× IEEE** publications.
 - 🤖 &nbsp;**Agentic systems depth** — currently a **Research Assistant** building and evaluating multi-agent LLM systems.
-- 🚀 &nbsp;**End-to-end, not just notebooks** — my projects go model → API → deployed product with **real users** (see FinMind).
+- 🚀 &nbsp;**End-to-end, not just notebooks** — my projects go model → API → deployed product with **real users**.
 
-> 🎓 MS Computer Science (AI) @ **USC Viterbi** · 📍 Los Angeles · 💬 Open to AI/ML engineering & research roles
+> `🎓 MS Computer Science (AI) @ USC Viterbi` &nbsp;·&nbsp; `📍 Los Angeles` &nbsp;·&nbsp; `💬 Open to AI/ML roles`
 
----
+<br>
 
 <!-- ════════════════════════════════════════════════════════════════
-     BY THE NUMBERS — resume metrics as a visual scoreboard
+     ~/impact  (resume metrics — no commit history needed)
      ════════════════════════════════════════════════════════════════ -->
-## 📈 By the Numbers
+## `~/impact`
 
 <div align="center">
 
-![Operational Value](https://img.shields.io/badge/Operational%20Value%20Recovered-%242M%2B-1A7F37?style=for-the-badge)
-![Users](https://img.shields.io/badge/Users%20Reached-35%2C000%2B-8E2DE2?style=for-the-badge)
-![Efficiency](https://img.shields.io/badge/Efficiency%20Lift-25%25%20across%2047%20BUs-0A66C2?style=for-the-badge)
+![Operational Value](https://img.shields.io/badge/Operational%20Value%20Recovered-%242M%2B-2BBC8A?style=for-the-badge&labelColor=0A0E14)
+![Users](https://img.shields.io/badge/Users%20Reached-35%2C000%2B-FF7B72?style=for-the-badge&labelColor=0A0E14)
+![Efficiency](https://img.shields.io/badge/Efficiency%20Lift-25%25%20%C2%B7%2047%20BUs-58A6FF?style=for-the-badge&labelColor=0A0E14)
 
-![Regions](https://img.shields.io/badge/Global%20Regions%20Shipped-6-D14836?style=for-the-badge)
-![Publications](https://img.shields.io/badge/Publications-3%20%281%20ACL%20%2B%202%20IEEE%29-6E40C9?style=for-the-badge)
-![GPA](https://img.shields.io/badge/USC%20GPA-3.5%20%2F%204.0-F59E0B?style=for-the-badge)
+![Regions](https://img.shields.io/badge/Global%20Regions-6-E3B341?style=for-the-badge&labelColor=0A0E14)
+![Publications](https://img.shields.io/badge/Publications-1%20ACL%20%2B%202%20IEEE-BC8CFF?style=for-the-badge&labelColor=0A0E14)
+![GPA](https://img.shields.io/badge/USC%20GPA-3.5%20%2F%204.0-7EE787?style=for-the-badge&labelColor=0A0E14)
 
 </div>
 
----
+<br>
 
 <!-- ════════════════════════════════════════════════════════════════
-     EXPERIENCE TIMELINE
+     ~/experience
      ════════════════════════════════════════════════════════════════ -->
-## 💼 Experience
+## `~/experience`
+
+```bash
+$ git log --author="vaish" --oneline --graph
+* USC Viterbi   Research Assistant   multi-agent LLM systems · ACL 2026 · 1K+ users
+* Oracle        AI/ML Engineer       agentic pipelines · RAG · $2M+ · 35K+ users
+* Technodysis   RPA Developer        Power Automate · back-office automation
+```
 
 🔬 &nbsp;**Research Assistant** — *University of Southern California* · `Present`
-> Building and evaluating multi-agent LLM systems — pipelines, backends, and evaluation frameworks supporting **1,000+ users**. Work feeds directly into my ACL 2026 submission.
+> Building and evaluating multi-agent LLM systems — pipelines, backends, and evaluation frameworks supporting **1,000+ users**. Feeds directly into my ACL 2026 submission.
 
 ☁️ &nbsp;**AI/ML Engineer** — *Oracle*
-> Architected and shipped multi-agent pipelines, RAG systems, and reusable agentic frameworks — part of an initiative recovering **$2M+ across 35,000+ users**. Drove ML workstreams that lifted efficiency **25% across 47 business units**, delivered to **6 global regions**. *OCI + AI Foundations certified.*
+> Architected multi-agent pipelines, RAG systems, and reusable agentic frameworks — part of an initiative recovering **$2M+ across 35,000+ users**. Drove ML workstreams that lifted efficiency **25% across 47 business units**, shipped to **6 global regions**. *OCI + AI Foundations certified.*
 
 🤖 &nbsp;**RPA Developer** — *Technodysis*
-> Automated bank-transaction verification and HR onboarding workflows with Power Automate, removing manual effort from high-volume back-office processes.
+> Automated bank-transaction verification and HR onboarding with Power Automate, removing manual effort from high-volume back-office processes.
 
----
+<br>
 
 <!-- ════════════════════════════════════════════════════════════════
-     FEATURED PROJECTS
+     ~/projects
      ════════════════════════════════════════════════════════════════ -->
-## 🚀 Featured Builds
+## `~/projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### 🐝 [SQLSwarm](https://github.com/Vaiishh/sqlSwarm)
-A swarm of LLM agents that profiles, rewrites & validates SQL for **Postgres / Snowflake** — automated query tuning without a senior DBA in the room.
+A swarm of LLM agents that profiles, rewrites & validates SQL for **Postgres / Snowflake** — query tuning without a senior DBA.
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0A0E14&color=161B22)
+![Next.js](https://img.shields.io/badge/Next.js-0A0E14?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0A0E14&color=161B22)
 
 </td>
 <td width="50%" valign="top">
@@ -94,9 +95,9 @@ A swarm of LLM agents that profiles, rewrites & validates SQL for **Postgres / S
 #### 🔍 AgentForensics
 Root-cause attribution for multi-agent LLM failures — *which agent and which decision actually broke the pipeline?*
 
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-6E40C9?style=flat-square)
-![Observability](https://img.shields.io/badge/Observability-6E40C9?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![Observability](https://img.shields.io/badge/Observability-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![Python](https://img.shields.io/badge/Python-0A0E14?style=flat-square&logo=python&logoColor=3776AB&labelColor=0A0E14&color=161B22)
 
 </td>
 </tr>
@@ -106,19 +107,19 @@ Root-cause attribution for multi-agent LLM failures — *which agent and which d
 #### 💸 FinMind
 Full-stack AI financial assistant **serving live users**, powered by **LLaMA 3.3 70B** on Groq.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA%203.3-F55036?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-0A0E14?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0A0E14&color=161B22)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0A0E14&color=161B22)
+![LLaMA](https://img.shields.io/badge/LLaMA%203.3-0A0E14?style=flat-square&logo=meta&logoColor=0866FF&labelColor=0A0E14&color=161B22)
 
 </td>
 <td width="50%" valign="top">
 
 #### ⚖️ LegalMind
-Multi-agent RAG research assistant for case law — retrieves, reasons across documents, and answers **with citations**.
+Multi-agent RAG research assistant for case law — retrieves, reasons across documents, answers **with citations**.
 
-![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-6E40C9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![LangChain](https://img.shields.io/badge/LangChain-0A0E14?style=flat-square&logo=langchain&logoColor=1C3C3C&labelColor=0A0E14&color=161B22)
+![NLP](https://img.shields.io/badge/NLP-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
 
 </td>
 </tr>
@@ -128,9 +129,9 @@ Multi-agent RAG research assistant for case law — retrieves, reasons across do
 #### 📚 [multisource_rag](https://github.com/Vaiishh/multisource_rag)
 RAG over **conflicting** sources that flags contradictions instead of averaging them away. **8/10 top-1**, all seeded conflicts caught.
 
-![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TF-IDF](https://img.shields.io/badge/TF--IDF%20fallback-6E40C9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![Python](https://img.shields.io/badge/Python-0A0E14?style=flat-square&logo=python&logoColor=3776AB&labelColor=0A0E14&color=161B22)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
 
 </td>
 <td width="50%" valign="top">
@@ -138,9 +139,9 @@ RAG over **conflicting** sources that flags contradictions instead of averaging 
 #### ⚡ CUDAForge
 Hand-optimized **CUDA kernels** benchmarked against cuBLAS — performance engineering at the GPU kernel level.
 
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-6E40C9?style=flat-square)
+![CUDA](https://img.shields.io/badge/CUDA-0A0E14?style=flat-square&logo=nvidia&logoColor=76B900&labelColor=0A0E14&color=161B22)
+![C++](https://img.shields.io/badge/C++-0A0E14?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=0A0E14&color=161B22)
+![HPC](https://img.shields.io/badge/HPC-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
 
 </td>
 </tr>
@@ -148,114 +149,93 @@ Hand-optimized **CUDA kernels** benchmarked against cuBLAS — performance engin
 
 <div align="center">
 
-[![All repositories](https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-8E2DE2?style=for-the-badge)](https://github.com/Vaiishh?tab=repositories)
+[![All repositories](https://img.shields.io/badge/%24%20ls%20~%2Frepositories%20%E2%86%92-2BBC8A?style=for-the-badge&labelColor=0A0E14)](https://github.com/Vaiishh?tab=repositories)
 
 </div>
 
----
+<br>
 
 <!-- ════════════════════════════════════════════════════════════════
-     TECH STACK
+     ~/stack
      ════════════════════════════════════════════════════════════════ -->
-## 🧰 Tech Stack
+## `~/stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,pytorch,fastapi,react,nextjs,tailwind,postgres,docker,aws,git,github,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,pytorch,fastapi,react,nextjs,tailwind,postgres,docker,aws,git,github,linux&perline=8&theme=dark" />
 
 </div>
+
+<br>
 
 **🧠 LLM / Machine Learning**
 <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-6E40C9?style=flat-square)
-![RLHF](https://img.shields.io/badge/Reinforcement%20Learning-6E40C9?style=flat-square)
-![Vector DBs](https://img.shields.io/badge/Vector%20Databases-6E40C9?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![LLaMA](https://img.shields.io/badge/LLaMA-0866FF?style=flat-square&logo=meta&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0A0E14?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=0A0E14&color=161B22)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0A0E14?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=0A0E14&color=161B22)
+![LangChain](https://img.shields.io/badge/LangChain-0A0E14?style=flat-square&logo=langchain&logoColor=2BBC8A&labelColor=0A0E14&color=161B22)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![RAG](https://img.shields.io/badge/RAG-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![RLHF](https://img.shields.io/badge/Reinforcement%20Learning-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
+![Groq](https://img.shields.io/badge/Groq-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
 
 **⚙️ Backend & Infrastructure**
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0A0E14?style=flat-square&logo=python&logoColor=3776AB&labelColor=0A0E14&color=161B22)
+![C++](https://img.shields.io/badge/C++-0A0E14?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=0A0E14&color=161B22)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0A0E14&color=161B22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E14?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0A0E14&color=161B22)
+![Docker](https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0A0E14&color=161B22)
+![AWS](https://img.shields.io/badge/AWS-0A0E14?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=0A0E14&color=161B22)
+![CUDA](https://img.shields.io/badge/CUDA-0A0E14?style=flat-square&logo=nvidia&logoColor=76B900&labelColor=0A0E14&color=161B22)
+![REST](https://img.shields.io/badge/REST%20APIs-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
 
 **🎨 Frontend**
 <br>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-0A0E14?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0A0E14&color=161B22)
+![Next.js](https://img.shields.io/badge/Next.js-0A0E14?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0A0E14&color=161B22)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0E14?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0A0E14&color=161B22)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0E14?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0A0E14&color=161B22)
+![Tailwind](https://img.shields.io/badge/Tailwind-0A0E14?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=0A0E14&color=161B22)
+![HTML5](https://img.shields.io/badge/HTML5-0A0E14?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0A0E14&color=161B22)
 
 **🔧 Tools & Practices**
 <br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-6E40C9?style=flat-square)
-
----
-
-<!-- ════════════════════════════════════════════════════════════════
-     GITHUB STATS (snake replaced with activity graph)
-     ════════════════════════════════════════════════════════════════ -->
-## 📊 GitHub in Motion
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaiishh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaiishh&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaiishh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaiishh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
+![Git](https://img.shields.io/badge/Git-0A0E14?style=flat-square&logo=git&logoColor=F05032&labelColor=0A0E14&color=161B22)
+![GitHub](https://img.shields.io/badge/GitHub-0A0E14?style=flat-square&logo=github&logoColor=white&labelColor=0A0E14&color=161B22)
+![Linux](https://img.shields.io/badge/Linux-0A0E14?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0A0E14&color=161B22)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0A0E14?style=flat-square&logo=microsoftpowerautomate&logoColor=0066FF&labelColor=0A0E14&color=161B22)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-0A0E14?style=flat-square&logo=oracle&logoColor=F80000&labelColor=0A0E14&color=161B22)
+![GenAI](https://img.shields.io/badge/Generative%20AI-0A0E14?style=flat-square&labelColor=0A0E14&color=161B22)
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vaiishh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
----
-
 <!-- ════════════════════════════════════════════════════════════════
-     PUBLICATIONS · EDUCATION · CERTS · BEYOND CODE
+     ~/credentials
      ════════════════════════════════════════════════════════════════ -->
+## `~/credentials`
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Publications
+**📝 Publications**
 - *Reward-constrained multi-agent LLM reasoning* — **first author**, under review at **ACL 2026**
 - 2× **IEEE** publications
 
-### 🎓 Education
+**🎓 Education**
 - **M.S. Computer Science (AI)** — USC Viterbi
 - GPA **3.5 / 4.0** · Graduating **May 2027**
 
 </td>
 <td width="50%" valign="top">
 
-### 📜 Certifications
+**📜 Certifications**
 - Oracle Cloud Infrastructure (OCI)
 - Oracle AI Foundations
 
-### 🌟 Beyond Code
+**🌟 Beyond Code**
 - 💰 **Deputy Director of Finance**, AIS @ USC
 - 🚀 Member, **TiE** Hub @ USC
 
@@ -263,36 +243,33 @@ Hand-optimized **CUDA kernels** benchmarked against cuBLAS — performance engin
 </tr>
 </table>
 
----
+<br>
 
 <!-- ════════════════════════════════════════════════════════════════
      FOOTER
      ════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-### Let's build something. 👇
+```bash
+$ echo "Let's build something." && exit 0
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-srinivas-65bb01240/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vaiishh.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@usc.edu)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-2BBC8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vaiishh.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-FF7B72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@usc.edu)
 
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════
-     SETUP NOTES (delete this block before committing)
+     SETUP (delete before committing)
      ════════════════════════════════════════════════════════════════
-     - Snake animation removed. Everything lives in this single README.md now;
-       no GitHub Action needed.
-     - Replace YOUR_EMAIL@usc.edu (3 places) with a real address, or delete the
-       Email badges.
-     - The "By the Numbers" badges use your resume metrics. Double-check you are
-       comfortable having each figure public before committing; edit any of them.
-     - Theme is "tokyonight" everywhere. To change vibe, swap that word in each
-       stats URL (try: radical, dracula, gruvbox, catppuccin_mocha, midnight-purple).
-     - Want LIVE project cards instead of the table? Replace a project cell with:
-       https://github-readme-stats.vercel.app/api/pin/?username=Vaiishh&repo=sqlSwarm&theme=tokyonight&hide_border=true
-       A pinned card only renders if a PUBLIC repo with that exact name exists,
-       otherwise it shows an error card. The table always renders, so it is the safe default.
+     1. Commit profile-card.svg to the ROOT of your Vaiishh/Vaiishh repo
+        (same folder as README.md). The hero <img src="profile-card.svg"> pulls it.
+        To edit the card text, open the .svg and change the <tspan> strings.
+     2. Replace YOUR_EMAIL@usc.edu (3 places) with a real address, or delete the badges.
+     3. ALL commit-history widgets (stats, streak, trophies, activity graph) are GONE —
+        nothing here depends on your contribution count.
+     4. Double-check the ~/impact figures are ones you're happy to show publicly.
+     5. Palette matches your portfolio: bg #0A0E14, teal #2BBC8A, green #7EE787,
+        coral #FF7B72. Change these in the .svg + badge URLs to retheme.
      ════════════════════════════════════════════════════════════════ -->
